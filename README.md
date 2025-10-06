@@ -12,7 +12,6 @@ Goal: Practice Bootstrap components like Navbar, Grid, Cards, Forms, and Modal.
 
 Built on: October 02, 2025  
 
-Due Date: \[Set your due date, e.g., October 09, 2025] 23:59 EAT
 
 
 
@@ -64,7 +63,7 @@ Bonus: Incorporated mini-challenges like adding spacing utilities and a calendar
 
 &nbsp;Modal Open
 
-!\[Modal Open Screenshot](./modal-open.png)
+!\[Modal Open Screenshot](./modal_open.png)
 
 
 
